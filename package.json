@@ -1,0 +1,12 @@
+{
+  "name": "commonform-overused",
+  "version": "0.0.0",
+  "description": "annotate overused works in Common Forms",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "repository": "kemitchell/commonform-overused",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "american-legal-crutches": "kemitchell/american-legal-crutches.json",
+    "commonform-phrase-annotator": "^1.0.2"
+  }
+}
